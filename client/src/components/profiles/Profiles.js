@@ -32,9 +32,9 @@ class Profiles extends Component {
           <div className="row">
             <div className="col-md-12">
               <h1 className="display-4 text-center">INKED! Profiles</h1>
-              <p className="lead text-center">
+              <h5 className="lead text-center">
                 Browse and connect with tattoo enthusiast's!
-              </p>
+              </h5>
               {profileItems}
             </div>
           </div>
